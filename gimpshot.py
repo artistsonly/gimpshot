@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import subprocess
 import gtk.gdk
 from tempfile import NamedTemporaryFile
